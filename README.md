@@ -9,7 +9,7 @@ What Kentucky urban areas have the highest risk to be directly impacted by wildf
 
 
 ## Data utilized:
-County data -  [County Boundary Lines of Kentucky ](https://kygeoportal.ky.gov/geoportal/catalog/main/home.page)
+County data - KyGeoportal: [County Boundary Lines of Kentucky ](https://kygeoportal.ky.gov/geoportal/catalog/main/home.page)
 Urban Areas data - 
 
 ## Result: 
